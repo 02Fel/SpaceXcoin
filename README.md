@@ -1,0 +1,2 @@
+# SpaceXcoin
+Uma memecoin
